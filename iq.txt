@@ -1,0 +1,18 @@
+
+clairvoyant-Interview Q
+
+tell me about your self
+write java code to print only duplicates
+defect life cycle
+write code to get request
+
+how to connect two table using inner join
+write xpath 
+git commands
+are u worked on database
+are u worked on mobile testing
+explicitwait syntax
+diff btn list and set
+explain framework
+how to get data from excel
+
